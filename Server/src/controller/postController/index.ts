@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import { HttpStatus } from "../../utils/http-status";
-import PostInterface from "../../utils/interface/PostInterface";
+import PostInterface from "../../utils/interface/postInterface";
 import PostModel from "../../model/postModel";
 import CommentModel from "../../model/commentModel";
 import UserModel from '../../model/userModel/index';

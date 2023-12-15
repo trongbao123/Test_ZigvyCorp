@@ -1,6 +1,6 @@
 import { Document, Schema, model, Model } from 'mongoose';
 import mongoosePaginate from 'mongoose-paginate-v2';
-import PostInterface from '../../utils/interface/PostInterface';
+import PostInterface from '../../utils/interface/postInterface';
 
 
 // Định nghĩa schema
